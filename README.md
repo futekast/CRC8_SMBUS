@@ -27,21 +27,3 @@ HEX Check: `0x12 0x34 0x56 0x78 0x09` -> `0x6B`
 
 Both bitwise and table-based functions are validated against the same expected results.
 
-## Release Notes
-
-Release Date: Thursday, April 30th, 2026  
-Revision: v0.0.0  
-Code Type: Module  
-External Revision Type: Initial Release  
-Release Cycle: Development  
-Hardware Compatibility: N/A  
-Bootloader Compatibility: N/A  
-
-New Features:
-1. Initial Release
-
-Changes:
-1. Initial Release
-
-Fixes:
-1. Initial Release
