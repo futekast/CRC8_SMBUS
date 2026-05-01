@@ -29,9 +29,6 @@ Both bitwise and table-based functions are validated against the same expected r
 
 ## Release Notes
 
-//------------------------------------------------------------------------------
-// EXTERNAL RELEASE NOTES
-//------------------------------------------------------------------------------
 Release Date: Thursday, April 30th, 2026  
 Revision: v0.0.0  
 Code Type: Module  
@@ -48,5 +45,3 @@ Changes:
 
 Fixes:
 1. Initial Release
-
-//------------------------------------------------------------------------------
